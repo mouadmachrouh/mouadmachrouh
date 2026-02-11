@@ -42,7 +42,7 @@
 - 🌐 Developing web applications  
 - 🧩 Strengthening algorithms & data structures  
 - 📚 Expanding my knowledge every day  
-- 🎯 Building projects for my portfolio
+
 
 ---
 
@@ -51,7 +51,7 @@
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:yourmail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]
+[![LinkedIn](www.linkedin.com/in/mouad-machrouh-405015338)]
 
 </div>
 
