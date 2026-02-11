@@ -8,7 +8,7 @@
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff00&style=flat)
+
 
 </div>
 
