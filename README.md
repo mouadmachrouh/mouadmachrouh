@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=Hi+I'm+Mouad+Machrouh;Application+Developer+Student;Web+Development+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=650&lines=Hi+I'm+Mouad+Machrouh" />
 
 <br>
 
@@ -8,7 +8,7 @@
 
 <br><br>
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff00&style=flat)
 
 </div>
 
@@ -17,8 +17,8 @@
 ## 👨‍💻 About Me
 
 🎓 I'm **Mouad Machrouh**, a motivated student passionate about building real-world applications.  
-🚀 I aim to become a professional **Application / Software Developer**.  
-💡 I enjoy solving problems and transforming ideas into digital solutions.
+🚀 Future **Application / Software Developer** & **Data Analyst**.  
+💡 I enjoy solving problems, analyzing information, and turning ideas into digital solutions.
 
 ---
 
@@ -37,12 +37,15 @@
 
 ---
 
-## 📈 What I'm Working On
+## 📈 What I'm Focused On
 
-- 🌐 Developing web applications  
-- 🧩 Strengthening algorithms & data structures  
-- 📚 Expanding my knowledge every day  
+- 🌐 Building web applications  
+- 📊 Preparing to specialize in **Data Analytics**  
+- 🧩 Improving algorithms & logical thinking  
+- 📚 Learning tools for analysis & development  
+- 🎯 Growing my professional career  
 
+📊 Currently preparing for Data Analytics using **Python, Pandas, Excel and Power BI**.
 
 ---
 
@@ -50,19 +53,8 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:yourmail@gmail.com)
-[![LinkedIn](www.linkedin.com/in/mouad-machrouh-405015338)]
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mouadmachrouh3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mouad-machrouh-405015338)
 
 </div>
 
@@ -71,4 +63,5 @@
 ## ⚡ Developer Mindset
 
 ```text
-Plan → Code → Debug → Learn → Improve → Repeat
+Plan → Code → Debug → Analyze → Learn → Improve → Repeat
+`
