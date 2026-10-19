@@ -1,33 +1,14 @@
-
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Mouad+Machrouh+%F0%9F%91%8B;Data+Engineering+Student+%F0%9F%92%BB;Passionate+About+Data+%26+Technology;Learning+Python+%26+SQL+%F0%9F%90%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=650&lines=Hi+I'm+Mouad+Machrouh;Data+Engineering+Student;Passionate+About+Data+%26+AI" />
 
-  <br>
+<br>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:003b20,100:00F72D&height=3&section=header" width="100%" />
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="45%" />
 
-  <br>
-
-  <p>
-    <b>DATA ENGINEERING · PYTHON · SQL</b>
-  </p>
-
-  <p>
-    Building my foundations in programming, databases, and data technologies.
-    <br>
-    Learning step by step. Building projects. Growing every day.
-  </p>
-
-  <br>
-
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00F72D&label=PROFILE+VIEWS" alt="Profile views" />
+<br><br>
 
 </div>
-
----
 
 <!-- ===================== ABOUT ME ===================== -->
 
