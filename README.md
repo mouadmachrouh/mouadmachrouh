@@ -1,6 +1,6 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=650&lines=Hi+I'm+Mouad+Machrouh" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=650&lines=Hi+I'm+Mouad+Machrouh;Data+Engineering+Student;Passionate+About+Data+%26+AI" />
 
 <br>
 
@@ -8,17 +8,21 @@
 
 <br><br>
 
-
-
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 I'm **Mouad Machrouh**, a motivated student passionate about building real-world applications.  
-🚀 Future **Application / Software Developer** & **Data Analyst**.  
-💡 I enjoy solving problems, analyzing information, and turning ideas into digital solutions.
+🎓 I'm **Mouad Machrouh**, a student passionate about **Data Engineering** and the world of data.
+
+🚀 Currently studying Data Engineering and building my foundations in programming, databases, and data technologies.
+
+💡 I'm interested in how data is collected, processed, transformed, and used to generate valuable insights.
+
+🧠 I enjoy solving problems, exploring new technologies, and turning ideas into practical solutions.
+
+🎯 My goal is to grow into a skilled **Data Engineer** and explore the fields of **Data Analytics and Artificial Intelligence**.
 
 ---
 
@@ -39,13 +43,22 @@
 
 ## 📈 What I'm Focused On
 
-- 🌐 Building web applications  
-- 📊 Preparing to specialize in **Data Analytics**  
-- 🧩 Improving algorithms & logical thinking  
-- 📚 Learning tools for analysis & development  
-- 🎯 Growing my professional career  
+- 🐍 Improving my Python programming skills.
+- 🗄️ Learning SQL and database management.
+- 📊 Exploring data analysis with Pandas, Excel, and Power BI.
+- ⚙️ Understanding data processing and data pipelines.
+- 🤖 Exploring the connection between Data Engineering and AI.
+- 🧩 Strengthening my algorithms and problem-solving skills.
 
-📊 Currently preparing for Data Analytics using **Python, Pandas, Excel and Power BI**.
+---
+
+## 🚀 My Goals
+
+- Build practical projects related to Data Engineering.
+- Develop strong programming and database fundamentals.
+- Learn how to build efficient and reliable data pipelines.
+- Explore Big Data technologies and cloud platforms.
+- Continuously improve my skills through hands-on projects.
 
 ---
 
@@ -63,5 +76,6 @@
 ## ⚡ Developer Mindset
 
 ```text
-Plan → Code → Debug → Analyze → Learn → Improve → Repeat
-`
+Learn → Build → Test → Debug → Analyze → Improve → Repeat
+```
+
